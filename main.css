@@ -9,6 +9,7 @@
     --black: #070707;
     --width-break:600px;
     --white: #fdfafa;
+    --red: #eee0e0;
 }
 
 body {
@@ -16,7 +17,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     max-width: 800px;
     margin: auto;
-    background-image: url(ship2.svg);
+    background-image: url(ee.svg);
 }
 .min-img{
     max-width: 100%;
@@ -24,7 +25,7 @@ body {
 
 }
 nav {
-    background-color: var(--primary);
+    background-color: aliceblue;
     text-align: center;
     border-bottom-left-radius: 1rem;
     background-image: url(nav.svg);
@@ -81,7 +82,7 @@ footer {
     
     text-align: center;
     border-top-right-radius: 1rem;
-    background-color: #3cd8dd;
+    background-color:  aliceblue;
     background-image: url(mushko-Seal.svg);
 }
 
